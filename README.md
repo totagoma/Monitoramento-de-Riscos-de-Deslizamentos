@@ -73,6 +73,8 @@ O projeto inclui testes unitários e de integração para garantir a qualidade d
 ```
 npm test
 ```
+Video:
+https://www.youtube.com/watch?v=a1g1x3RtdWw
 
 ## Integrantes do Grupo
 
