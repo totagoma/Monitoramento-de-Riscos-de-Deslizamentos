@@ -111,7 +111,5 @@ Atualmente, o aplicativo não oferece a funcionalidade de exclusão de registros
 ### O aplicativo envia notificações?
 Esta versão não inclui notificações push. Você precisa abrir o aplicativo para verificar os alertas.
 
-## Suporte
 
-Para suporte técnico ou dúvidas sobre o aplicativo, entre em contato com a equipe de desenvolvimento através do e-mail: suporte@monitoramento-deslizamentos.com
 
